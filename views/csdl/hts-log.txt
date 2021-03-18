@@ -1,0 +1,84 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 28 Dec 2020 23:49:02 at ../ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+..
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://127.0.0.1/wordpress/ -O1 "C:\Users\PHUNGDINHSON\Documents\test\thuvien" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in th..
+
+	do not share these files/folders if you want these information to remain private
+..
+
+
+23:51:13	Error: 	"Bad Request" (400) at link 127.0.0.1/wordpress/"da..,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='black' stroke='none'%3E%3Cpolygon points='9.4,2 24,2 14.6,21.6 0,21.6'/%3E%3C/svg%3E" (from 127.0.0.1/wordpress/)
+
+23:51:15	Warning: 	Moved Permanently for 127.0.0.1/wordpress/?p=735
+..
+23:51:15	Warning: 	File has moved from 127.0.0.1/wordpress/?p=735 to http://127.0.0.1/wordpress/thong-tin/
+
+23:51:15	Error: 	"Bad Request" (400) at link 127.0.0.1/wordpress/thon..e/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='black' stroke='none'%3E%3Cpolygon points='9.4,2 24,2 14.6,21.6 0,21.6'/%3E%3C/svg%3E" (from 127.0.0.1/wordpress/thong-tin/)
+
+23:51:15	Warning: 	Moved Permanently for 127.0.0.1/wordpress/?p=733
+..
+23:51:15	Warning: 	File has moved from 127.0.0.1/wordpress/?p=733 to http://127.0.0.1/wordpress/ve-chung-toi/
+
+23:51:15	Error: 	"Bad Request" (400) at link 127.0.0.1/wordpress/ve-c..mage/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='black' stroke='none'%3E%3Cpolygon points='9.4,2 24,2 14.6,21.6 0,21.6'/%3E%3C/svg%3E" (from 127.0.0.1/wordpress/ve-chung-toi/)
+
+23:51:34	Warning: 	Moved Permanently for 127.0.0.1/wordpress/?p=16
+..
+23:51:34	Warning: 	File has moved from 127.0.0.1/wordpress/?p=16 to http://127.0.0.1/wordpress/cau-hoi-thuong-gap/
+
+23:51:34	Error: 	"Bad Request" (400) at link 127.0.0.1/wordpress/cau-..data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='black' stroke='none'%3E%3Cpolygon points='9.4,2 24,2 14.6,21.6 0,21.6'/%3E%3C/svg%3E" (from 127.0.0.1/wordpress/cau-hoi-thuong-gap/)
+
+23:51:38	Warning: 	Moved Permanently for 127.0.0.1/wordpress/?p=734
+..
+23:51:38	Warning: 	File has moved from 127.0.0.1/wordpress/?p=734 to http://127.0.0.1/wordpress/lien-he/
+
+23:51:38	Error: 	"Bad Request" (400) at link 127.0.0.1/wordpress/lien-he/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='black' stroke='none'%3E%3Cpolygon points='9.4,2 24,2 14.6,21.6 0,21.6'/%3E%3C/svg%3E" (from 127.0.0.1/wordpress/lien-he/)
+
+23:51:39	Warning: 	Moved Permanently for 127.0.0.1/wordpress/?p=743
+
+23:51:39	Warning: 	File has moved from 127.0.0.1/wordpress/?p=743 to http://127.0.0.1/wordpress/dang-nhap-sinh-vien/
+
+23:51:46	Error: 	"Bad Request" (400) at link 127.0.0.1/wordpress/dang-nhap-sinh-vien/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='black' stroke='none'%3E%3Cpolygon points='9.4,2 24,2 14.6,21.6 0,21.6'/%3E%3C/svg%3E" (from 127.0.0.1/wordpress/dang-nhap-sinh-vien/)
+
+23:51:46	Warning: 	Moved Permanently for 127.0.0.1/wordpress/?p=868
+
+23:51:46	Warning: 	File has moved from 127.0.0.1/wordpress/?p=868 to http://127.0.0.1/wordpress/dang-nhap-thu-thu/
+
+23:51:50	Error: 	"Bad Request" (400) at link 127.0.0.1/wordpress/dang-nhap-thu-thu/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='black' stroke='none'%3E%3Cpolygon points='9.4,2 24,2 14.6,21.6 0,21.6'/%3E%3C/svg%3E" (from 127.0.0.1/wordpress/dang-nhap-thu-thu/)
+
+23:51:56	Warning: 	Moved Permanently for 127.0.0.1/wordpress/?p=805
+
+23:51:56	Warning: 	File has moved from 127.0.0.1/wordpress/?p=805 to http://127.0.0.1/wordpress/thong-tin-sinh-vien/
+
+23:51:59	Error: 	"Bad Request" (400) at link 127.0.0.1/wordpress/thong-tin-sinh-vien/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='black' stroke='none'%3E%3Cpolygon points='9.4,2 24,2 14.6,21.6 0,21.6'/%3E%3C/svg%3E" (from 127.0.0.1/wordpress/thong-tin-sinh-vien/)
+
+23:51:59	Warning: 	Moved Permanently for 127.0.0.1/wordpress/?p=892
+
+23:51:59	Warning: 	File has moved from 127.0.0.1/wordpress/?p=892 to http://127.0.0.1/wordpress/thong-tin-thu-thu/
+
+23:51:59	Error: 	"Bad Request" (400) at link 127.0.0.1/wordpress/thong-tin-thu-thu/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='black' stroke='none'%3E%3Cpolygon points='9.4,2 24,2 14.6,21.6 0,21.6'/%3E%3C/svg%3E" (from 127.0.0.1/wordpress/thong-tin-thu-thu/)
+
+23:52:05	Warning: 	Moved Permanently for 127.0.0.1/wordpress/?p=852
+
+23:52:05	Warning: 	File has moved from 127.0.0.1/wordpress/?p=852 to http://127.0.0.1/wordpress/doi-mat-khau/
+
+23:52:05	Error: 	"Bad Request" (400) at link 127.0.0.1/wordpress/doi-mat-khau/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='black' stroke='none'%3E%3Cpolygon points='9.4,2 24,2 14.6,21.6 0,21.6'/%3E%3C/svg%3E" (from 127.0.0.1/wordpress/doi-mat-khau/)
+
+23:52:05	Warning: 	Moved Permanently for 127.0.0.1/wordpress/?p=829
+
+23:52:05	Warning: 	File has moved from 127.0.0.1/wordpress/?p=829 to http://127.0.0.1/wordpress/tra-cuu-sach/
+
+23:52:05	Error: 	"Bad Request" (400) at link 127.0.0.1/wordpress/tra-cuu-sach/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='black' stroke='none'%3E%3Cpolygon points='9.4,2 24,2 14.6,21.6 0,21.6'/%3E%3C/svg%3E" (from 127.0.0.1/wordpress/tra-cuu-sach/)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 50 seconds : 159 links scanned, 137 files written (9195169 bytes overall) [7469901 bytes received at 32477 bytes/sec], 2255214 bytes transferred using HTTP compression in 74 files, ratio 20%, 3.2 requests per connection
+
+(11 errors, 20 warnings, 0 messages)
+
