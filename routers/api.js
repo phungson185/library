@@ -289,9 +289,9 @@ api.get('/xoa-sach', (req, res) => {
     client.query(`SELECT xoa_sach($1,$2)`, [req.query.mpl, req.query.mss])
         .then(result => {
             res.json({ rs: true })
-                .catch(err => {
-                    rs: false
-                })
+                // .catch(err => {
+                //     rs: false
+                // })
         })
 })
 
